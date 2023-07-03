@@ -4,7 +4,7 @@
 
 In this project, you will be able to move the eyes with the location of the cursor. This project was to help cement the ideas styling.
 
-## How to Run: This is information someone would use to get started running your project on their machine.
+## How to Run
 
 To run, please download the files and load the index.html in your browser.
 
@@ -12,7 +12,7 @@ To run, please download the files and load the index.html in your browser.
 
 There are no future improvements planned at this time.
 
-## License information: This should include information about the MIT license. 
+## License information
 
 MIT License
 
