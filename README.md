@@ -1,7 +1,5 @@
 # Eyes Exercise
 
-<img src="PacMan1.png">
-
 ## Description of Project
 
 In this project, you will be able to move the eyes with the location of the cursor. This project was to help cement the ideas styling.
